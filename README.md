@@ -35,16 +35,21 @@ I build AI-integrated applications and fine-tune transformer models (BERT) for t
 
 ### 🔹 BERT Tone Classifier
 Fine-tuned BERT for tone/sentiment classification of comments and short texts.
+
 Tech & tools: Hugging Face Transformers, PyTorch, Pandas, Scikit-learn. Hugging Face
+
 What I did: data preprocessing, tokenization, fine-tuning, evaluation (precision/recall/F1), inference API (FastAPI).
+
 Notes: metrics and training details available in the repository. 
-(**The repository:** [tone-of-comments](https://github.com/N0Nameez/tone-of-comments?tab=readme-ov-file#-authors))
+
+**The repository:** [tone-of-comments](https://github.com/N0Nameez/tone-of-comments?tab=readme-ov-file#-authors)
 
 ### 🔹 Wavely — AI Music Generator (group project)
 AI-driven web application that generates music based on prompts. 
 Built with Vue on the frontend; 
 AI pipeline for music generation on the backend.  
-(**The repository:** [Wavely_AI_Music_Generator](https://github.com/KishlakEnjoyer/Wavely_AI_Music_Generator))
+
+**The repository:** [Wavely_AI_Music_Generator](https://github.com/KishlakEnjoyer/Wavely_AI_Music_Generator)
 
 ### 🔹 AI 3D Generation Platform (Diploma)
 Web platform for generating and sharing 3D human models and animations:
@@ -52,11 +57,13 @@ Web platform for generating and sharing 3D human models and animations:
 - Upload/export: FBX, GLB, OBJ  
 - Social features: posts, comments, likes, favorites, moderation  
 - Recommendation system, roles (User / Moderator / Admin)  
-(**The repository:** [AnimaticAI](https://github.com/N0Nameez/diploma))
+
+**The repository:** [AnimaticAI](https://github.com/N0Nameez/diploma)
 
 ### 🔹 ComputerFirm — C# WPF (Academic year project)
 Desktop application built with WPF and MVVM patterns. Used Material Design, custom controls and data binding. Demonstrates clean separation of UI / business logic.
-(**The repository:** [ComputerFirm](https://github.com/N0Nameez/computerfirm)
+
+**The repository:** [ComputerFirm](https://github.com/N0Nameez/computerfirm
 
 ### 🔹 AI Music & Voice Telegram Bot (group project)
 A Telegram bot built with aiogram + FastAPI that provides: 
@@ -66,7 +73,8 @@ A Telegram bot built with aiogram + FastAPI that provides:
    + Artist 
    + Genre
 The bot processes voice input, converts it to text, and allows users to discover music using the Deezer API.
-(**The repository:** [AI Music & Voice Telegram Bot](https://github.com/KishlakEnjoyer/teamwork-tg-bot/tree/ml))
+
+**The repository:** [AI Music & Voice Telegram Bot](https://github.com/KishlakEnjoyer/teamwork-tg-bot/tree/ml)
 
 ---
 
