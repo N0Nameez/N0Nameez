@@ -63,7 +63,7 @@ Web platform for generating and sharing 3D human models and animations:
 ### 🔹 ComputerFirm — C# WPF (Academic year project)
 Desktop application built with WPF and MVVM patterns. Used Material Design, custom controls and data binding. Demonstrates clean separation of UI / business logic.
 
-**The repository:** [ComputerFirm](https://github.com/N0Nameez/computerfirm
+**The repository:** [ComputerFirm](https://github.com/N0Nameez/computerfirm)
 
 ### 🔹 AI Music & Voice Telegram Bot (group project)
 A Telegram bot built with aiogram + FastAPI that provides: 
