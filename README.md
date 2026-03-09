@@ -1,5 +1,11 @@
 # Hi, I'm Vlad 👋
 
+<!-- GitHub stats (example) -->
+![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0Nameez&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0Nameez&layout=compact&theme=tokyonight)
+
+---
+
 🎓 4th-year student in Information Systems and Programming
 
 AI / ML developer focused on transformer fine-tuning and NLP applications.  
@@ -77,6 +83,15 @@ The bot processes voice input, converts it to text, and allows users to discover
 **The repository:** [AI Music & Voice Telegram Bot](https://github.com/KishlakEnjoyer/teamwork-tg-bot/tree/ml)
 
 ---
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-F99B00?style=flat&logo=huggingface&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Whisper](https://img.shields.io/badge/-Whisper-111111?style=flat&logo=openai&logoColor=white)
 
 ## 🛠 Tech stack & skills
 
