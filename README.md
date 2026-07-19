@@ -1,4 +1,4 @@
-# Hi, I'm Vlad 👋
+# Привет, я Влад 👋
 
 <!-- GitHub stats (example) -->
 ![Vlad's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0Nameez&show_icons=true&theme=tokyonight)
@@ -6,145 +6,131 @@
 
 ---
 
-🎓 4th-year student in Information Systems and Programming
+🎓 Выпускник по специальности «Информационные системы и программирование»
 
-AI / ML developer focused on transformer fine-tuning and NLP applications.  
-Experienced in integrating machine learning models into real applications (web, Telegram bots, desktop apps).
+AI / ML разработчик полного цикла. Проектирую, обучаю и внедряю модели машинного обучения в готовые масштабируемые продукты (веб-платформы, Telegram-боты, десктоп).
 
-💻 Tech: React + TypeScript, FastAPI, Python, C# / WPF (MVVM)  
-🤖 ML: PyTorch, HuggingFace Transformers, model fine-tuning & evaluation  
-🐧 Environment: Arch Linux, Git, terminal-based workflow
+💻 Технологии: React + TypeScript, FastAPI, Python, C# / WPF (MVVM)  
+🤖 ML: PyTorch, TensorFlow, HuggingFace Transformers, Scikit-learn  
+🐧 Окружение: Arch Linux, Git, работа в терминале
 
-English: B2 — comfortable reading technical docs, participating in technical conversations and writing code comments / READMEs.
-
----
-
-## About me
-
-I build AI-integrated applications and fine-tune transformer models (BERT) for text classification and mood analysis. I have a background in desktop development with C# and WPF (MVVM), and I am actively developing web projects using React + TypeScript and FastAPI. Currently working on:
-
-- A diploma web platform for AI-based 3D model & animation generation and social features.   
-- Mood-detection Telegram bot to recommend tracks based on user responses.
+Английский: B2 — свободно читаю техническую документацию, участвую в технических обсуждениях и пишу комментарии к коду.
 
 ---
 
-## What I can contribute
+## Обо мне
 
-- Fine-tuning transformer models for NLP tasks (classification, sentiment and mood detection)
-- Building and deploying ASR pipelines (Whisper) and integrating STT into product flows
-- Serving models via FastAPI and integrating inference into web and chat apps
-- Data preprocessing, evaluation (precision/recall/F1/WER), and making ML ready for production
+Я Full-stack и ML разработчик, создающий продукты на стыке современных веб-технологий и искусственного интеллекта. Занимаюсь полным циклом: от сбора данных и обучения моделей до их интеграции в приложения с продуманным пользовательским интерфейсом.
+
+У меня есть бэкграунд в десктопной разработке на C# и WPF (MVVM), а сейчас я фокусируюсь на машинном обучении и интеграции AI-моделей в веб-приложения с использованием React, TypeScript и FastAPI. 
+
+В данный момент я нахожусь в активном поиске работы и открыт к новым предложениям, параллельно занимаясь самообразованием и углубляя свои знания в Data Science и Machine Learning.
 
 ---
 
-## 🚀 Highlighted Projects
+## Чем я могу быть полезен
 
-### 🔹 BERT Tone Classifier
-Fine-tuned BERT for tone/sentiment classification of comments and short texts.
+- **Исследование и анализ данных (Research & EDA):** подготовка датасетов, проверка гипотез, разведочный анализ и выбор оптимальных алгоритмов для решения бизнес-задач.
+- **Обучение и дообучение моделей:** работа как с классическим ML, так и с нейросетями (включая fine-tuning трансформеров под специфичные задачи).
+- **Внедрение и деплой (Production):** интеграция обученных моделей в реальные продукты, разработка API для инференса и настройка пайплайнов обработки данных.
+- **Full-stack разработка:** создание надежного бэкенда и современных интерфейсов для удобного взаимодействия пользователей с AI-решениями.
 
-Tech & tools: Hugging Face Transformers, PyTorch, Pandas, Scikit-learn. Hugging Face
+---
 
-What I did: data preprocessing, tokenization, fine-tuning, evaluation (precision/recall/F1), inference API (FastAPI).
+## 🚀 Ключевые проекты
 
-Notes: metrics and training details available in the repository. 
+### 🔹 Платформа для 3D-генерации (Дипломная работа)
+Веб-платформа для генерации и шеринга 3D-моделей людей и анимаций:
+- AI-генерация: модели из фото, анимации из видео  
+- Загрузка/экспорт: FBX, GLB, OBJ  
+- Социальные фичи: посты, комментарии, лайки, избранное, модерация  
 
-**The repository:** [tone-of-comments](https://github.com/N0Nameez/tone-of-comments?tab=readme-ov-file#-authors)
+**Репозиторий:** [AnimaticAI](https://github.com/N0Nameez/diploma)
 
-### 🔹 Wavely — AI Music Generator (group project)
-AI-driven web application that generates music based on prompts. 
-Built with Vue on the frontend; 
-AI pipeline for music generation on the backend.  
+### 🔹 Whisper RU Fine-Tuning
+Проект по дообучению (fine-tuning) модели Whisper для улучшения качества распознавания русской речи (ASR). 
 
-**The repository:** [Wavely_AI_Music_Generator](https://github.com/KishlakEnjoyer/Wavely_AI_Music_Generator)
+Что я сделал: подготовка датасетов, настройка процесса обучения, оценка качества распознавания.
 
-### 🔹 AI 3D Generation Platform (Diploma)
-Web platform for generating and sharing 3D human models and animations:
-- AI generation: models from photos, animations from video  
-- Upload/export: FBX, GLB, OBJ  
-- Social features: posts, comments, likes, favorites, moderation  
-- Recommendation system, roles (User / Moderator / Admin)  
+**Репозиторий:** [whisper-ru-finetuning](https://github.com/N0Nameez/whisper-ru-finetuning)
 
-**The repository:** [AnimaticAI](https://github.com/N0Nameez/diploma)
+### 🔹 Оценка ML-моделей: Цены на жилье в США
+Бенчмарк моделей машинного обучения для предсказания цен на недвижимость в США. Проведение разведочного анализа данных (EDA) и сравнение различных алгоритмов.
 
-### 🔹 ComputerFirm — C# WPF (Academic year project)
-Desktop application built with WPF and MVVM patterns. Used Material Design, custom controls and data binding. Demonstrates clean separation of UI / business logic.
+**Репозиторий:** [usa-housing-ml-benchmark](https://github.com/N0Nameez/usa-housing-ml-benchmark)
 
-**The repository:** [ComputerFirm](https://github.com/N0Nameez/computerfirm)
+### 🔹 BERT Классификатор тональности
+Дообученная модель BERT для классификации тональности/настроения комментариев и коротких текстов. Полный цикл: от предобработки данных до API для инференса.
 
-### 🔹 AI Music & Voice Telegram Bot (group project)
-A Telegram bot built with aiogram + FastAPI that provides: 
-* 🎙 Voice message recognition (Speech-to-Text) 
-* 🎵 Music search by: 
-   + Track name 
-   + Artist 
-   + Genre
-The bot processes voice input, converts it to text, and allows users to discover music using the Deezer API.
+**Репозиторий:** [tone-of-comments](https://github.com/N0Nameez/tone-of-comments?tab=readme-ov-file#-authors)
 
-**The repository:** [AI Music & Voice Telegram Bot](https://github.com/KishlakEnjoyer/teamwork-tg-bot/tree/ml)
+### 🔹 AI Music & Voice Telegram Bot (командный проект)
+Telegram-бот на базе aiogram + FastAPI, который предлагает: 
+* 🎙 Распознавание голосовых сообщений (Speech-to-Text) 
+* 🎵 Поиск музыки
+Бот обрабатывает голосовой ввод, переводит его в текст и позволяет пользователям находить музыку с помощью Deezer API.
+
+**Репозиторий:** [AI Music & Voice Telegram Bot](https://github.com/KishlakEnjoyer/teamwork-tg-bot/tree/ml)
 
 ---
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-F99B00?style=flat&logo=huggingface&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Whisper](https://img.shields.io/badge/-Whisper-111111?style=flat&logo=openai&logoColor=white)
 
-## 🛠 Tech stack & skills
+## 🛠 Технологический стек и навыки
 
 **Machine Learning**
-- Python, PyTorch, HuggingFace Transformers  
+- Python, PyTorch, TensorFlow, HuggingFace Transformers  
 - Scikit-learn, Pandas, NumPy  
-- Model fine-tuning, evaluation (precision/recall/F1/WER)
+- Обучение/дообучение моделей, оценка метрик (precision/recall/F1/WER), анализ данных
 
 **Frontend**
 - React, TypeScript, Vite  
 - Tailwind CSS  
-- Three.js (3D rendering)
+- Three.js (3D-рендеринг)
 
 **Backend**
 - FastAPI (Python)
-- REST APIs, Telegram Bot API
+- REST API, Telegram Bot API
 
-**Databases / Data**
-- MySQL (MySQL Workbench, SQL scripts, views)  
-- PostgreSQL (basic schema & scripting — studied and ready to use)  
-- Basic DB design, queries, migrations
+**Базы данных / Данные**
+- MySQL (MySQL Workbench, SQL-скрипты, представления)  
+- PostgreSQL (базовые схемы и скрипты)  
 
-**Desktop / C#**
-- C#, WPF, MVVM, XAML  
-- Custom controls, Material Design in XAML  
-- Garbage collector fundamentals, memory (stack/heap), interfaces, enums, basic algorithmic complexity
-
-**Tools & OS**
-- Git, GitHub, terminal (Arch Linux), VS Code / IDEs, have experience working in vim
+**Инструменты и ОС**
+- Git, GitHub, терминал (Arch Linux), VS Code / IDE, базовый опыт в vim
 
 ---
 
-## 🏆 Achievements
+## 🏆 Достижения
 
-- 🥉 3rd place — Regional stage, "Professionals 2025" Championship (BI Analytics)
-
----
-
-## 📌 Currently learning & focus
-
-- Production-grade transformer fine-tuning and prompt-aware pipelines  
-- Deploying AI services (FastAPI + Docker + cloud)  
-- Advanced 3D workflows (Three.js, GLTF/FBX pipelines)  
-- Improving full-stack integration between ML and web frontends
+- 👨‍🏫 **Эксперт-наставник** — Региональный этап чемпионата «Профессионалы 2026» (BI-аналитика) — *подготовил конкурсанта, занявшего 3 место*.
+- 👨‍🏫 **Эксперт-наставник** — Региональный этап чемпионата «Профессионалы 2026» (Технологии ИИ для автоматизации складских логистических процессов) — *подготовил конкурсанта, занявшего 2 место*.
+- 🥉 **3-е место** — Региональный этап чемпионата «Профессионалы 2025» (BI-аналитика).
 
 ---
 
-## 📫 Contact & links
+## 📌 Что изучаю и на чем сфокусирован
 
-- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/d3v4stated)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noname10lvl@yandex.ru)
+- Углубленное изучение Data Science и математического аппарата машинного обучения (линейная и логистическая регрессия, архитектуры нейронных сетей).
+- Изучение академических статей и профильной литературы для лучшего понимания устройства алгоритмов.
+- Улучшение навыков MLOps: деплой AI-сервисов (FastAPI + Docker) и интеграция между ML-моделями и веб-фронтендом.
+- 💼 **Активно ищу работу!** Открыт к предложениям и интересным задачам.
 
 ---
 
-## ⚡ Fun fact
-`i use arch btw` — 3 months on Arch Linux, comfortable with shell and development tooling.
+## 📫 Контакты и ссылки
+
+- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vladeveloper)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fedenev.vladis@yandex.com)
+
+---
+
+## ⚡ Интересный факт
+`i use arch btw` — комфортно чувствую себя в оболочке и с инструментами разработки.
